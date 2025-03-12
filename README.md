@@ -13,7 +13,7 @@
 
 ## After Optimization
 ## /all-student
-![alt text](images/allstudentafter.jpg)
+![alt text](images/allstudentafter.png)
 ![alt text](images/allstudentafterterminal.png)
 ## /all-student-name
 ![alt text](images/allstudentnameafter.png)
