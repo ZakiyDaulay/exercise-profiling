@@ -11,6 +11,17 @@
 ![alt text](images/highestgpa.png)
 ![alt text](images/highestgpa(terminal).png)
 
+## After Optimization
+## /all-student
+![alt text](images/allstudentafter.jpg)
+![alt text](images/allstudentafterterminal.png)
+## /all-student-name
+![alt text](images/allstudentnameafter.png)
+![alt text](images/studentnameterminal.png)
+## /highest-gpa
+![alt text](images/highestgpaafter.png)
+![alt text](images/highestgpaafterterm.png)
+
 Conclusion: There was a big improvement after doing optimization on the code
 
 Questions:
